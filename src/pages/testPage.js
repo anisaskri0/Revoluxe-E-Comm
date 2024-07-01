@@ -1,5 +1,4 @@
 import React from 'react'
-import rev1 from "./rev1.jpg";
 export default function testPage() {
   return (
       <div >
